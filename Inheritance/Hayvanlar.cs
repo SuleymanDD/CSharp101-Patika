@@ -21,7 +21,7 @@ public class Sürüngenler:Hayvanlar
 
     public void SurunerekHareketEtmek()
     {
-        System.Console.WriteLine("Sürüngeler sürünerek hareket ederler.");
+        Console.WriteLine("Sürüngeler sürünerek hareket ederler.");
     }
 }
 
@@ -36,6 +36,6 @@ public class Kuslar:Hayvanlar
     }
     public void Ucmak()
     {
-        System.Console.WriteLine("Kuşlar uçar");
+        Console.WriteLine("Kuşlar uçar");
     }
 }
