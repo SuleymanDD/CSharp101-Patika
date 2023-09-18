@@ -14,6 +14,6 @@ public class Civic : IOtomobil
 
     public Renk StandartRengiNe()
     {
-        return Renk.Mavi;
+        return Renk.Beyaz;
     }
 }

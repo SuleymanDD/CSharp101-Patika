@@ -10,6 +10,5 @@ public enum Marka
 public enum Renk
 {
    Beyaz,
-   Siyah,
-   Mavi 
+   Siyah
 }
